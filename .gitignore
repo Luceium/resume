@@ -1,0 +1,10 @@
+# ignore everything
+/*
+
+# but not these files...
+!*.tex
+!.gitignore
+
+# recursivley don't ignore things in the .github directory
+!/.github/
+!/.github/workflows/
