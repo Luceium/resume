@@ -3,6 +3,7 @@
 
 # but not these files...
 !*.tex
+!*.pdf
 !.gitignore
 
 # recursivley don't ignore things in the .github directory
